@@ -1,17 +1,17 @@
 /**
  * @name Fatality.Win
  * @author Nixer_Exe
- * @authorId 0
+ * @authorId 68507
  * @authorLink https://fatality.win/members/nixer_exe.68507/
  * @version 1.0.0
  * @description A sleek, customizable Discord theme.
- * @donate https://fatality.win/members/nixer_exe.68507/
+ * @donate https://fatality.win/threads/theme-for-discord.19387/
  * @website https://fatality.win/threads/theme-for-discord.19387/
- * @source ---
- * @updateUrl ---
+ * @source https://github.com/GevonLight/fatality-theme
+ * @updateUrl https://github.com/GevonLight/fatality-theme/raw/refs/heads/main/custom.css
  * @invite 2Jwh2nS
 */
-@import url('https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css');
+@import url('https://github.com/GevonLight/Imp-fata/raw/refs/heads/main/fata.css');
 
 .theme-dark {
   --dplus-backdrop: url('https://i.postimg.cc/d3nrrwVB/Bez-nazvania-1.jpg');
